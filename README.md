@@ -1,5 +1,5 @@
-# LBdantonML
-[link](https://v0-lb-danton-homepage.vercel.app/)
+# LB Danton 
+[LBdanton](https://v0-lb-danton-homepage.vercel.app/)
 
 # Train. Predict. Optimize. Repeat.
 
