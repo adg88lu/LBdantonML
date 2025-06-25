@@ -1,4 +1,4 @@
-# LB Danton 
+# LB Danton GmbH i.G.
 [LBdanton](https://v0-lb-danton-homepage.vercel.app/)
 
 # Train. Predict. Optimize. Repeat.
