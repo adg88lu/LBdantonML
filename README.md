@@ -52,7 +52,7 @@ we build modular, scalable infrastructure that **grows with your business**
 
 ## 📬 Contact
 
-**Email:** `LBdanton.contact@get-it-easy.info`  
+**Email:** `management@lbdanton.com`  
 [Non-Disclosure Projects on GitHub:](https://github.com/adg88lu)
 
 ---
